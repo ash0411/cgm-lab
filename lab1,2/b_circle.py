@@ -37,6 +37,6 @@ def b_circle(xc,yc,r):
         drawCircle(win,xc,yc,x,y)# for each pixel drawing all 8 pixel
         time.sleep(2) 
     win.getMouse()
-help(Point)
+#help(Point)
 b_circle(35,50,30)
 
